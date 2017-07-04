@@ -1,4 +1,4 @@
-# RxJava-introduction-and-practice 
+# RxJava
 
 简单但多维度的对RxJava进行简述，并通过5个小例子展示RxJava的使用
 RxJava2已经出来好久了，参加一些Android技术会议也经常能听到RxJava的名字。
